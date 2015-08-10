@@ -1,0 +1,5 @@
+Plugin	Inject Message Count	Inject Message Bytes	Process Message Count	Process Message Failures	Current Memory	Max Memory	Max Output	Max Instructions	Message Matcher Avg (s)	Message Matcher SD (s)	Process Message Avg (s)	Process Message SD (s)	Timer Event Avg (s)	Timer Event SD (s)
+input/udpinput.cfg	8	670	0	0	42047	51863	88	87	0	0	0	0	0	0	
+analysis/decode_statsdp.cfg	0	0	0	0	13760	16257	0	11	0	0	0	0	0	0	
+analysis/regex_dispatch_metric.cfg	0	0	0	0	14904	19784	0	75	0	0	0	0	0	0	
+output/encode_metric.cfg	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
